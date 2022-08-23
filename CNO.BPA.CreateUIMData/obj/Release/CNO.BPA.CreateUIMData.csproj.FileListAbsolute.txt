@@ -1,0 +1,21 @@
+D:\Source\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\bin\Release\CNO.BPA.CreateUIMData.dll
+D:\Source\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\bin\Release\CNO.BPA.CreateUIMData.pdb
+D:\Source\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\bin\Release\Emc.InputAccel.CaptureClient.dll
+D:\Source\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\bin\Release\Emc.InputAccel.CaptureClient.xml
+D:\Source\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.dll
+D:\Source\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.pdb
+D:\Source\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.csprojResolveAssemblyReference.cache
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateUIMData.dll
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateUIMData.pdb
+D:\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.csproj.AssemblyReference.cache
+D:\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.csproj.CoreCompileInputs.cache
+D:\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.dll
+D:\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\bin\Debug\CNO.BPA.CreateUIMData.dll
+D:\7.1 Files\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\bin\Debug\CNO.BPA.CreateUIMData.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\7.1 Files\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.csproj.AssemblyReference.cache
+D:\7.1 Files\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.csproj.CoreCompileInputs.cache
+D:\7.1 Files\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.csproj.CopyComplete
+D:\7.1 Files\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.dll
+D:\7.1 Files\BPA.net\CNO.BPA.CreateUIMData\trunk\CNO.BPA.CreateUIMData\CNO.BPA.CreateUIMData\obj\Release\CNO.BPA.CreateUIMData.pdb
